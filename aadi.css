@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    color: rgba(255, 100, 200);
+    background-color: rgba(39, 77, 152, 0.8);
+}
+
+
+html {
+
+    background-color: lightblue;
+}
